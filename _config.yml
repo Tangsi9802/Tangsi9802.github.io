@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TANG / Site Title"
+title                    : "TANG SI ~ My Site"
 title_separator          : "-"
-name                     : &name "Tang "
+name                     : &name "Tang Si"
 description              : &description "personal description"
 url                      : https://Tangsi9802.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
