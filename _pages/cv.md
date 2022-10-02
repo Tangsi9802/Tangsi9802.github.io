@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Opto-electronic Information Science and Engineering, BUPT, Sep. 2016 – Jun. 2020
+* M.S. in Electronic Science and Technology, BUAA, Sep. 2020 – Feb. 2023 
 
 Work experience
 ======
